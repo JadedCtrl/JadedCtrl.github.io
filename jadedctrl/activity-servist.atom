@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fluo de «jadedctrl/activity-servist»</title>
+  <id>https://hak.xwx.moe/jadedctrl/activity-servist</id>
+  <updated>2025-03-02T14:16:11-06:00</updated>
+  <subtitle>[WIP] ActivityPub library for Common Lisp.</subtitle>
+  <link href="https://hak.xwx.moe/jadedctrl/activity-servist"></link>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2025-02-27T18:43:57-06:00</updated>
+    <id>531: https://hak.xwx.moe/jadedctrl/activity-servist/commit/ee0ccb9bd3775cfbae75bf22f4bc68ad14d46ccc</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ee0ccb9bd3775cfbae75bf22f4bc68ad14d46ccc&#34;&gt;ee0ccb9bd3775cfbae75bf22f4bc68ad14d46ccc&lt;/a&gt;&#xA;ActivityVocabulary→LitePub, SAVE→STORE</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/ee0ccb9bd3775cfbae75bf22f4bc68ad14d46ccc" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ee0ccb9bd3775cfbae75bf22f4bc68ad14d46ccc&#34;&gt;ee0ccb9bd3775cfbae75bf22f4bc68ad14d46ccc&lt;/a&gt;&#xA;ActivityVocabulary→LitePub, SAVE→STORE</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2025-02-27T18:18:59-06:00</updated>
+    <id>530: https://hak.xwx.moe/jadedctrl/activity-servist/commit/7f1f5340d9147c8bf8838842672bfc2484e0c8a5</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/7f1f5340d9147c8bf8838842672bfc2484e0c8a5&#34;&gt;7f1f5340d9147c8bf8838842672bfc2484e0c8a5&lt;/a&gt;&#xA;Support {curly} and [square] bracks w reader macro</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/7f1f5340d9147c8bf8838842672bfc2484e0c8a5" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/7f1f5340d9147c8bf8838842672bfc2484e0c8a5&#34;&gt;7f1f5340d9147c8bf8838842672bfc2484e0c8a5&lt;/a&gt;&#xA;Support {curly} and [square] bracks w reader macro</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2025-02-08T19:37:58-06:00</updated>
+    <id>497: https://hak.xwx.moe/jadedctrl/activity-servist/commit/de16213735317d46e3fe2f3e10b39ad261ee6c30</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/de16213735317d46e3fe2f3e10b39ad261ee6c30&#34;&gt;de16213735317d46e3fe2f3e10b39ad261ee6c30&lt;/a&gt;&#xA;Support {curly} and [square] bracks w reader macro</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/de16213735317d46e3fe2f3e10b39ad261ee6c30" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/de16213735317d46e3fe2f3e10b39ad261ee6c30&#34;&gt;de16213735317d46e3fe2f3e10b39ad261ee6c30&lt;/a&gt;&#xA;Support {curly} and [square] bracks w reader macro</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2025-01-16T12:57:43-06:00</updated>
+    <id>495: https://hak.xwx.moe/jadedctrl/activity-servist/commit/0cdbb3a043db448cafea3014460e2e95cecf8698</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/0cdbb3a043db448cafea3014460e2e95cecf8698&#34;&gt;0cdbb3a043db448cafea3014460e2e95cecf8698&lt;/a&gt;&#xA;Add :initarg to all vocabulary classes</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/0cdbb3a043db448cafea3014460e2e95cecf8698" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/0cdbb3a043db448cafea3014460e2e95cecf8698&#34;&gt;0cdbb3a043db448cafea3014460e2e95cecf8698&lt;/a&gt;&#xA;Add :initarg to all vocabulary classes</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2025-01-14T22:41:04-06:00</updated>
+    <id>494: /jadedctrl/activity-servist/compare/7f5b6ffc57ab803437efa29250363c1d28ff6639...1466c69548faf3abf2601248d9f583d8bac8ef61</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/1466c69548faf3abf2601248d9f583d8bac8ef61&#34;&gt;1466c69548faf3abf2601248d9f583d8bac8ef61&lt;/a&gt;&#xA;Formatting/removing dead code. No functional change&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/aa982ead3d16d85e6ba3b9af3e243fbb50ab7b70&#34;&gt;aa982ead3d16d85e6ba3b9af3e243fbb50ab7b70&lt;/a&gt;&#xA;Support signature-validation of deleted actors&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/1ae93b333b357cbe173fce7d99e0c3c41eea5645&#34;&gt;1ae93b333b357cbe173fce7d99e0c3c41eea5645&lt;/a&gt;&#xA;Replace Dexador with Drakma; add AS/UTIL&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2aed6f0c600c654ee697cfe6f4095b7a754f4352&#34;&gt;2aed6f0c600c654ee697cfe6f4095b7a754f4352&lt;/a&gt;&#xA;Add LitePub equivalents to empty Activity subtypes</content>
+    <link href="/jadedctrl/activity-servist/compare/7f5b6ffc57ab803437efa29250363c1d28ff6639...1466c69548faf3abf2601248d9f583d8bac8ef61" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/1466c69548faf3abf2601248d9f583d8bac8ef61&#34;&gt;1466c69548faf3abf2601248d9f583d8bac8ef61&lt;/a&gt;&#xA;Formatting/removing dead code. No functional change&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/aa982ead3d16d85e6ba3b9af3e243fbb50ab7b70&#34;&gt;aa982ead3d16d85e6ba3b9af3e243fbb50ab7b70&lt;/a&gt;&#xA;Support signature-validation of deleted actors&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/1ae93b333b357cbe173fce7d99e0c3c41eea5645&#34;&gt;1ae93b333b357cbe173fce7d99e0c3c41eea5645&lt;/a&gt;&#xA;Replace Dexador with Drakma; add AS/UTIL&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2aed6f0c600c654ee697cfe6f4095b7a754f4352&#34;&gt;2aed6f0c600c654ee697cfe6f4095b7a754f4352&lt;/a&gt;&#xA;Add LitePub equivalents to empty Activity subtypes</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2025-01-09T22:27:13-06:00</updated>
+    <id>483: https://hak.xwx.moe/jadedctrl/activity-servist/commit/7f5b6ffc57ab803437efa29250363c1d28ff6639</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/7f5b6ffc57ab803437efa29250363c1d28ff6639&#34;&gt;7f5b6ffc57ab803437efa29250363c1d28ff6639&lt;/a&gt;&#xA;Ensure the signature’s domain matches the signee’s</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/7f5b6ffc57ab803437efa29250363c1d28ff6639" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/7f5b6ffc57ab803437efa29250363c1d28ff6639&#34;&gt;7f5b6ffc57ab803437efa29250363c1d28ff6639&lt;/a&gt;&#xA;Ensure the signature’s domain matches the signee’s</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2025-01-03T22:53:00-06:00</updated>
+    <id>446: /jadedctrl/activity-servist/compare/e80661415cf7ff2ce012170da47df54d7a52607d...7b3cf9cb89a669b7b9cedd7c863dee2d59deeaaf</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/7b3cf9cb89a669b7b9cedd7c863dee2d59deeaaf&#34;&gt;7b3cf9cb89a669b7b9cedd7c863dee2d59deeaaf&lt;/a&gt;&#xA;Support subclasses of JSON-type CLOS classes&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ad6c879f55e654e932541854b237a21efcfc15ab&#34;&gt;ad6c879f55e654e932541854b237a21efcfc15ab&lt;/a&gt;&#xA;Make sure to encode @TYPE whenever applicable</content>
+    <link href="/jadedctrl/activity-servist/compare/e80661415cf7ff2ce012170da47df54d7a52607d...7b3cf9cb89a669b7b9cedd7c863dee2d59deeaaf" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/7b3cf9cb89a669b7b9cedd7c863dee2d59deeaaf&#34;&gt;7b3cf9cb89a669b7b9cedd7c863dee2d59deeaaf&lt;/a&gt;&#xA;Support subclasses of JSON-type CLOS classes&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ad6c879f55e654e932541854b237a21efcfc15ab&#34;&gt;ad6c879f55e654e932541854b237a21efcfc15ab&lt;/a&gt;&#xA;Make sure to encode @TYPE whenever applicable</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-12-30T03:09:00-06:00</updated>
+    <id>442: /jadedctrl/activity-servist/compare/2fadb9168df8de3934189061ed3fa2c44e1910fb...e80661415cf7ff2ce012170da47df54d7a52607d</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/e80661415cf7ff2ce012170da47df54d7a52607d&#34;&gt;e80661415cf7ff2ce012170da47df54d7a52607d&lt;/a&gt;&#xA;Export PERSON class from Litepub&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/d1221538656ac2dce6b4255d2c6cab99348f2bd2&#34;&gt;d1221538656ac2dce6b4255d2c6cab99348f2bd2&lt;/a&gt;&#xA;Formatting tweaks; no functional changes</content>
+    <link href="/jadedctrl/activity-servist/compare/2fadb9168df8de3934189061ed3fa2c44e1910fb...e80661415cf7ff2ce012170da47df54d7a52607d" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/e80661415cf7ff2ce012170da47df54d7a52607d&#34;&gt;e80661415cf7ff2ce012170da47df54d7a52607d&lt;/a&gt;&#xA;Export PERSON class from Litepub&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/d1221538656ac2dce6b4255d2c6cab99348f2bd2&#34;&gt;d1221538656ac2dce6b4255d2c6cab99348f2bd2&lt;/a&gt;&#xA;Formatting tweaks; no functional changes</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-12-30T03:06:03-06:00</updated>
+    <id>441: /jadedctrl/activity-servist/compare/313e061b2d7afc1fccaf0ae5e029be1f0fbb8149...2fadb9168df8de3934189061ed3fa2c44e1910fb</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2fadb9168df8de3934189061ed3fa2c44e1910fb&#34;&gt;2fadb9168df8de3934189061ed3fa2c44e1910fb&lt;/a&gt;&#xA;Better error-handling framework + *DEBUG* mode&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2b5bbf1fd6cabb2c970484a05060dcb5893bc93b&#34;&gt;2b5bbf1fd6cabb2c970484a05060dcb5893bc93b&lt;/a&gt;&#xA;Actually verify HTTP signatures on /inbox requests</content>
+    <link href="/jadedctrl/activity-servist/compare/313e061b2d7afc1fccaf0ae5e029be1f0fbb8149...2fadb9168df8de3934189061ed3fa2c44e1910fb" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2fadb9168df8de3934189061ed3fa2c44e1910fb&#34;&gt;2fadb9168df8de3934189061ed3fa2c44e1910fb&lt;/a&gt;&#xA;Better error-handling framework + *DEBUG* mode&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2b5bbf1fd6cabb2c970484a05060dcb5893bc93b&#34;&gt;2b5bbf1fd6cabb2c970484a05060dcb5893bc93b&lt;/a&gt;&#xA;Actually verify HTTP signatures on /inbox requests</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-12-30T02:15:39-06:00</updated>
+    <id>440: https://hak.xwx.moe/jadedctrl/activity-servist/commit/313e061b2d7afc1fccaf0ae5e029be1f0fbb8149</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/313e061b2d7afc1fccaf0ae5e029be1f0fbb8149&#34;&gt;313e061b2d7afc1fccaf0ae5e029be1f0fbb8149&lt;/a&gt;&#xA;Actually verify HTTP signatures on /inbox requests</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/313e061b2d7afc1fccaf0ae5e029be1f0fbb8149" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/313e061b2d7afc1fccaf0ae5e029be1f0fbb8149&#34;&gt;313e061b2d7afc1fccaf0ae5e029be1f0fbb8149&lt;/a&gt;&#xA;Actually verify HTTP signatures on /inbox requests</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-12-29T23:54:27-06:00</updated>
+    <id>439: https://hak.xwx.moe/jadedctrl/activity-servist/commit/d652598d77604fe96467cd0e11cbdeadd36e8951</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/d652598d77604fe96467cd0e11cbdeadd36e8951&#34;&gt;d652598d77604fe96467cd0e11cbdeadd36e8951&lt;/a&gt;&#xA;Creation &amp;amp; verification of RSA-SHA256 signatures</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/d652598d77604fe96467cd0e11cbdeadd36e8951" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/d652598d77604fe96467cd0e11cbdeadd36e8951&#34;&gt;d652598d77604fe96467cd0e11cbdeadd36e8951&lt;/a&gt;&#xA;Creation &amp;amp; verification of RSA-SHA256 signatures</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-12-29T23:44:31-06:00</updated>
+    <id>438: https://hak.xwx.moe/jadedctrl/activity-servist/commit/750f745cacb1696714b637adf0381262c614ea36</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/750f745cacb1696714b637adf0381262c614ea36&#34;&gt;750f745cacb1696714b637adf0381262c614ea36&lt;/a&gt;&#xA;Creation &amp;amp; verification of RSA-SHA256 signatures</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/750f745cacb1696714b637adf0381262c614ea36" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/750f745cacb1696714b637adf0381262c614ea36&#34;&gt;750f745cacb1696714b637adf0381262c614ea36&lt;/a&gt;&#xA;Creation &amp;amp; verification of RSA-SHA256 signatures</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-12-29T23:42:26-06:00</updated>
+    <id>437: https://hak.xwx.moe/jadedctrl/activity-servist/commit/2b4187ec0062d6634518ab6bd7738c264aa3ddbd</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2b4187ec0062d6634518ab6bd7738c264aa3ddbd&#34;&gt;2b4187ec0062d6634518ab6bd7738c264aa3ddbd&lt;/a&gt;&#xA;Creation &amp;amp; verification of RSA-SHA256 signatures</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/2b4187ec0062d6634518ab6bd7738c264aa3ddbd" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2b4187ec0062d6634518ab6bd7738c264aa3ddbd&#34;&gt;2b4187ec0062d6634518ab6bd7738c264aa3ddbd&lt;/a&gt;&#xA;Creation &amp;amp; verification of RSA-SHA256 signatures</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-12-29T12:25:00-06:00</updated>
+    <id>436: https://hak.xwx.moe/jadedctrl/activity-servist/commit/8898d4b3f7d229997be1e4b622c4c178a5eda853</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/8898d4b3f7d229997be1e4b622c4c178a5eda853&#34;&gt;8898d4b3f7d229997be1e4b622c4c178a5eda853&lt;/a&gt;&#xA;Generation of rcv’d activities’ signed-strings</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/8898d4b3f7d229997be1e4b622c4c178a5eda853" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/8898d4b3f7d229997be1e4b622c4c178a5eda853&#34;&gt;8898d4b3f7d229997be1e4b622c4c178a5eda853&lt;/a&gt;&#xA;Generation of rcv’d activities’ signed-strings</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-12-18T14:06:38-06:00</updated>
+    <id>435: /jadedctrl/activity-servist/compare/71fa674ce3069c5fdce812980800b30398913710...a37fc2bbfebca85d1c1d6750ab68ab1db3acb529</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/a37fc2bbfebca85d1c1d6750ab68ab1db3acb529&#34;&gt;a37fc2bbfebca85d1c1d6750ab68ab1db3acb529&lt;/a&gt;&#xA;Fetch &amp;amp; store Actors of received Activities&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/b05f9e765e95f36ffd5f0ba0ea38a32a42deaa69&#34;&gt;b05f9e765e95f36ffd5f0ba0ea38a32a42deaa69&lt;/a&gt;&#xA;Tweak Litepub package to define LP:PERSON&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/a84872309c7774b8928ca8ba882b8fc1d49fbcd4&#34;&gt;a84872309c7774b8928ca8ba882b8fc1d49fbcd4&lt;/a&gt;&#xA;Renamed FETCH to RETRIEVE&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/258315b0d78e8e498a21b552e8ddbeda559eabc2&#34;&gt;258315b0d78e8e498a21b552e8ddbeda559eabc2&lt;/a&gt;&#xA;Provisionally use global URIs for some endpoints&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/380bc3f52515521f3a591d81408157ac34129b3b&#34;&gt;380bc3f52515521f3a591d81408157ac34129b3b&lt;/a&gt;&#xA;Implement a basic, bare-bones inbox!</content>
+    <link href="/jadedctrl/activity-servist/compare/71fa674ce3069c5fdce812980800b30398913710...a37fc2bbfebca85d1c1d6750ab68ab1db3acb529" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/a37fc2bbfebca85d1c1d6750ab68ab1db3acb529&#34;&gt;a37fc2bbfebca85d1c1d6750ab68ab1db3acb529&lt;/a&gt;&#xA;Fetch &amp;amp; store Actors of received Activities&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/b05f9e765e95f36ffd5f0ba0ea38a32a42deaa69&#34;&gt;b05f9e765e95f36ffd5f0ba0ea38a32a42deaa69&lt;/a&gt;&#xA;Tweak Litepub package to define LP:PERSON&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/a84872309c7774b8928ca8ba882b8fc1d49fbcd4&#34;&gt;a84872309c7774b8928ca8ba882b8fc1d49fbcd4&lt;/a&gt;&#xA;Renamed FETCH to RETRIEVE&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/258315b0d78e8e498a21b552e8ddbeda559eabc2&#34;&gt;258315b0d78e8e498a21b552e8ddbeda559eabc2&lt;/a&gt;&#xA;Provisionally use global URIs for some endpoints&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/380bc3f52515521f3a591d81408157ac34129b3b&#34;&gt;380bc3f52515521f3a591d81408157ac34129b3b&lt;/a&gt;&#xA;Implement a basic, bare-bones inbox!</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-10-21T04:20:44-05:00</updated>
+    <id>391: /jadedctrl/activity-servist/compare/99fffe1bd244ff108bed6826fb6cf8727a062aff...71fa674ce3069c5fdce812980800b30398913710</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/71fa674ce3069c5fdce812980800b30398913710&#34;&gt;71fa674ce3069c5fdce812980800b30398913710&lt;/a&gt;&#xA;Use LitePub for user-class in example server&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2182eb4ebef711c19e948b8ac8a7cd059db18bee&#34;&gt;2182eb4ebef711c19e948b8ac8a7cd059db18bee&lt;/a&gt;&#xA;Remove use of :PROTOCOL &amp;amp; :ADDRESS in *CONFIG*&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/dbb23ad8b8c0edb2be7e1afb47e48eae464c6a50&#34;&gt;dbb23ad8b8c0edb2be7e1afb47e48eae464c6a50&lt;/a&gt;&#xA;Replace custom encoding of users with object-FETCH</content>
+    <link href="/jadedctrl/activity-servist/compare/99fffe1bd244ff108bed6826fb6cf8727a062aff...71fa674ce3069c5fdce812980800b30398913710" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/71fa674ce3069c5fdce812980800b30398913710&#34;&gt;71fa674ce3069c5fdce812980800b30398913710&lt;/a&gt;&#xA;Use LitePub for user-class in example server&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2182eb4ebef711c19e948b8ac8a7cd059db18bee&#34;&gt;2182eb4ebef711c19e948b8ac8a7cd059db18bee&lt;/a&gt;&#xA;Remove use of :PROTOCOL &amp;amp; :ADDRESS in *CONFIG*&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/dbb23ad8b8c0edb2be7e1afb47e48eae464c6a50&#34;&gt;dbb23ad8b8c0edb2be7e1afb47e48eae464c6a50&lt;/a&gt;&#xA;Replace custom encoding of users with object-FETCH</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-10-21T03:59:39-05:00</updated>
+    <id>390: https://hak.xwx.moe/jadedctrl/activity-servist/commit/99fffe1bd244ff108bed6826fb6cf8727a062aff</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/99fffe1bd244ff108bed6826fb6cf8727a062aff&#34;&gt;99fffe1bd244ff108bed6826fb6cf8727a062aff&lt;/a&gt;&#xA;Minor refactoring; LOOP → DOLIST, etc.</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/99fffe1bd244ff108bed6826fb6cf8727a062aff" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/99fffe1bd244ff108bed6826fb6cf8727a062aff&#34;&gt;99fffe1bd244ff108bed6826fb6cf8727a062aff&lt;/a&gt;&#xA;Minor refactoring; LOOP → DOLIST, etc.</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-10-21T03:57:46-05:00</updated>
+    <id>389: https://hak.xwx.moe/jadedctrl/activity-servist/commit/2d377f5b9b5c949d9bb17ffca406a9afd6571f16</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2d377f5b9b5c949d9bb17ffca406a9afd6571f16&#34;&gt;2d377f5b9b5c949d9bb17ffca406a9afd6571f16&lt;/a&gt;&#xA;Only encode LitePub context for LP classes/slots</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/2d377f5b9b5c949d9bb17ffca406a9afd6571f16" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2d377f5b9b5c949d9bb17ffca406a9afd6571f16&#34;&gt;2d377f5b9b5c949d9bb17ffca406a9afd6571f16&lt;/a&gt;&#xA;Only encode LitePub context for LP classes/slots</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-10-20T11:27:03-05:00</updated>
+    <id>388: /jadedctrl/activity-servist/compare/16a1bcbacbb8fec73c42d06d056a37b7c007d023...e0341343db9c2ee768f43c9c866435b05ca1c6aa</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/e0341343db9c2ee768f43c9c866435b05ca1c6aa&#34;&gt;e0341343db9c2ee768f43c9c866435b05ca1c6aa&lt;/a&gt;&#xA;Remove :UPDATE parameter from DEFINE-JSON-TYPE&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/06de0e0191ee0c7aab0dec2f57211236c6b69f63&#34;&gt;06de0e0191ee0c7aab0dec2f57211236c6b69f63&lt;/a&gt;&#xA;Add a file-caching of common JSON-LD schema</content>
+    <link href="/jadedctrl/activity-servist/compare/16a1bcbacbb8fec73c42d06d056a37b7c007d023...e0341343db9c2ee768f43c9c866435b05ca1c6aa" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/e0341343db9c2ee768f43c9c866435b05ca1c6aa&#34;&gt;e0341343db9c2ee768f43c9c866435b05ca1c6aa&lt;/a&gt;&#xA;Remove :UPDATE parameter from DEFINE-JSON-TYPE&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/06de0e0191ee0c7aab0dec2f57211236c6b69f63&#34;&gt;06de0e0191ee0c7aab0dec2f57211236c6b69f63&lt;/a&gt;&#xA;Add a file-caching of common JSON-LD schema</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-09-05T22:33:30-05:00</updated>
+    <id>321: https://hak.xwx.moe/jadedctrl/activity-servist/commit/16a1bcbacbb8fec73c42d06d056a37b7c007d023</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/16a1bcbacbb8fec73c42d06d056a37b7c007d023&#34;&gt;16a1bcbacbb8fec73c42d06d056a37b7c007d023&lt;/a&gt;&#xA;Begin an example server</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/16a1bcbacbb8fec73c42d06d056a37b7c007d023" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/16a1bcbacbb8fec73c42d06d056a37b7c007d023&#34;&gt;16a1bcbacbb8fec73c42d06d056a37b7c007d023&lt;/a&gt;&#xA;Begin an example server</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-09-05T22:28:27-05:00</updated>
+    <id>320: https://hak.xwx.moe/jadedctrl/activity-servist/commit/ecc8b6f46cd0e6e5650cf698ca709ca55b0ce9cb</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ecc8b6f46cd0e6e5650cf698ca709ca55b0ce9cb&#34;&gt;ecc8b6f46cd0e6e5650cf698ca709ca55b0ce9cb&lt;/a&gt;&#xA;Add FETCH, and  Webfinger data from JSON-objects</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/ecc8b6f46cd0e6e5650cf698ca709ca55b0ce9cb" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ecc8b6f46cd0e6e5650cf698ca709ca55b0ce9cb&#34;&gt;ecc8b6f46cd0e6e5650cf698ca709ca55b0ce9cb&lt;/a&gt;&#xA;Add FETCH, and  Webfinger data from JSON-objects</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-09-05T12:09:13-05:00</updated>
+    <id>319: /jadedctrl/activity-servist/compare/86b8d0a5144a95b24292d640122a9877605fd6f3...f98b5d81a9a0966137ad9dd2c522d71438718f8c</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/f98b5d81a9a0966137ad9dd2c522d71438718f8c&#34;&gt;f98b5d81a9a0966137ad9dd2c522d71438718f8c&lt;/a&gt;&#xA;Rename JSON-LD-OBJECT &amp;amp; LITEPUB-OBJECT&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/4905c0be954f16b83e50ea6b192bdee5497cfa57&#34;&gt;4905c0be954f16b83e50ea6b192bdee5497cfa57&lt;/a&gt;&#xA;Add export definition for Litepub package&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/4978dfb7eec4b30142e62e2a05b9faf7ddf2f000&#34;&gt;4978dfb7eec4b30142e62e2a05b9faf7ddf2f000&lt;/a&gt;&#xA;Rename JSON-LD slots &amp;amp; accessors&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/a0f4d6ba3629098225684b7095127950485c45a1&#34;&gt;a0f4d6ba3629098225684b7095127950485c45a1&lt;/a&gt;&#xA;Rename accessors from “CLASS-SLOT” to simply “SLOT”&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/5cc249ffa94e9deec316fb82f7b283c4c408ee0c&#34;&gt;5cc249ffa94e9deec316fb82f7b283c4c408ee0c&lt;/a&gt;&#xA;Tweak Litepub-vocab’s class hierarchy</content>
+    <link href="/jadedctrl/activity-servist/compare/86b8d0a5144a95b24292d640122a9877605fd6f3...f98b5d81a9a0966137ad9dd2c522d71438718f8c" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/f98b5d81a9a0966137ad9dd2c522d71438718f8c&#34;&gt;f98b5d81a9a0966137ad9dd2c522d71438718f8c&lt;/a&gt;&#xA;Rename JSON-LD-OBJECT &amp;amp; LITEPUB-OBJECT&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/4905c0be954f16b83e50ea6b192bdee5497cfa57&#34;&gt;4905c0be954f16b83e50ea6b192bdee5497cfa57&lt;/a&gt;&#xA;Add export definition for Litepub package&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/4978dfb7eec4b30142e62e2a05b9faf7ddf2f000&#34;&gt;4978dfb7eec4b30142e62e2a05b9faf7ddf2f000&lt;/a&gt;&#xA;Rename JSON-LD slots &amp;amp; accessors&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/a0f4d6ba3629098225684b7095127950485c45a1&#34;&gt;a0f4d6ba3629098225684b7095127950485c45a1&lt;/a&gt;&#xA;Rename accessors from “CLASS-SLOT” to simply “SLOT”&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/5cc249ffa94e9deec316fb82f7b283c4c408ee0c&#34;&gt;5cc249ffa94e9deec316fb82f7b283c4c408ee0c&lt;/a&gt;&#xA;Tweak Litepub-vocab’s class hierarchy</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-09-03T12:09:25-05:00</updated>
+    <id>318: /jadedctrl/activity-servist/compare/ce557da89ccf47bde249b57f8fb16d886f90b40b...86b8d0a5144a95b24292d640122a9877605fd6f3</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/86b8d0a5144a95b24292d640122a9877605fd6f3&#34;&gt;86b8d0a5144a95b24292d640122a9877605fd6f3&lt;/a&gt;&#xA;Docstrings and package-renaming&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/b15c1383789d69217d3edb2913ce4418069dfce6&#34;&gt;b15c1383789d69217d3edb2913ce4418069dfce6&lt;/a&gt;&#xA;Add PUBLIC-KEY slot to Litepub’s PERSON</content>
+    <link href="/jadedctrl/activity-servist/compare/ce557da89ccf47bde249b57f8fb16d886f90b40b...86b8d0a5144a95b24292d640122a9877605fd6f3" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/86b8d0a5144a95b24292d640122a9877605fd6f3&#34;&gt;86b8d0a5144a95b24292d640122a9877605fd6f3&lt;/a&gt;&#xA;Docstrings and package-renaming&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/b15c1383789d69217d3edb2913ce4418069dfce6&#34;&gt;b15c1383789d69217d3edb2913ce4418069dfce6&lt;/a&gt;&#xA;Add PUBLIC-KEY slot to Litepub’s PERSON</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-09-03T11:09:55-05:00</updated>
+    <id>317: https://hak.xwx.moe/jadedctrl/activity-servist/commit/ce557da89ccf47bde249b57f8fb16d886f90b40b</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ce557da89ccf47bde249b57f8fb16d886f90b40b&#34;&gt;ce557da89ccf47bde249b57f8fb16d886f90b40b&lt;/a&gt;&#xA;Add :ALWAYS-ITEM parsing-option</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/ce557da89ccf47bde249b57f8fb16d886f90b40b" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ce557da89ccf47bde249b57f8fb16d886f90b40b&#34;&gt;ce557da89ccf47bde249b57f8fb16d886f90b40b&lt;/a&gt;&#xA;Add :ALWAYS-ITEM parsing-option</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-09-03T11:07:06-05:00</updated>
+    <id>316: /jadedctrl/activity-servist/compare/de0fd8845c1870b79737e5c4fabf1c09f4a27173...8faeb1afd2340ac8efb7f1c158279484917b4654</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/8faeb1afd2340ac8efb7f1c158279484917b4654&#34;&gt;8faeb1afd2340ac8efb7f1c158279484917b4654&lt;/a&gt;&#xA;Fix encoding of aliased @ID, @CONTEXT, and @TYPE&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/22ad087a97e4b04ac5ffac68c041d33cebccc122&#34;&gt;22ad087a97e4b04ac5ffac68c041d33cebccc122&lt;/a&gt;&#xA;Fix use of class-options in Litepub vocabulary&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/3e2f0d3b6291ec78a9386b27d85467ca4491b372&#34;&gt;3e2f0d3b6291ec78a9386b27d85467ca4491b372&lt;/a&gt;&#xA;Begin support for Pleroma-flavour “Litepub” vocab&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/c90f63d7657057209a97c47f2575cf146ac55684&#34;&gt;c90f63d7657057209a97c47f2575cf146ac55684&lt;/a&gt;&#xA;Fix :UPDATE and inheritance of @ID and @TYPE slots</content>
+    <link href="/jadedctrl/activity-servist/compare/de0fd8845c1870b79737e5c4fabf1c09f4a27173...8faeb1afd2340ac8efb7f1c158279484917b4654" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/8faeb1afd2340ac8efb7f1c158279484917b4654&#34;&gt;8faeb1afd2340ac8efb7f1c158279484917b4654&lt;/a&gt;&#xA;Fix encoding of aliased @ID, @CONTEXT, and @TYPE&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/22ad087a97e4b04ac5ffac68c041d33cebccc122&#34;&gt;22ad087a97e4b04ac5ffac68c041d33cebccc122&lt;/a&gt;&#xA;Fix use of class-options in Litepub vocabulary&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/3e2f0d3b6291ec78a9386b27d85467ca4491b372&#34;&gt;3e2f0d3b6291ec78a9386b27d85467ca4491b372&lt;/a&gt;&#xA;Begin support for Pleroma-flavour “Litepub” vocab&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/c90f63d7657057209a97c47f2575cf146ac55684&#34;&gt;c90f63d7657057209a97c47f2575cf146ac55684&lt;/a&gt;&#xA;Fix :UPDATE and inheritance of @ID and @TYPE slots</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-08-25T10:54:42-05:00</updated>
+    <id>311: https://hak.xwx.moe/jadedctrl/activity-servist/commit/de0fd8845c1870b79737e5c4fabf1c09f4a27173</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/de0fd8845c1870b79737e5c4fabf1c09f4a27173&#34;&gt;de0fd8845c1870b79737e5c4fabf1c09f4a27173&lt;/a&gt;&#xA;Add :UPDATE class-option to DEFINE-JSON-TYPE</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/de0fd8845c1870b79737e5c4fabf1c09f4a27173" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/de0fd8845c1870b79737e5c4fabf1c09f4a27173&#34;&gt;de0fd8845c1870b79737e5c4fabf1c09f4a27173&lt;/a&gt;&#xA;Add :UPDATE class-option to DEFINE-JSON-TYPE</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-08-25T10:52:12-05:00</updated>
+    <id>310: https://hak.xwx.moe/jadedctrl/activity-servist/commit/ea7bafcba7b0c5a50a737100694cacdec45def30</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ea7bafcba7b0c5a50a737100694cacdec45def30&#34;&gt;ea7bafcba7b0c5a50a737100694cacdec45def30&lt;/a&gt;&#xA;Add :UPDATE class-option to DEFINE-JSON-TYPE</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/ea7bafcba7b0c5a50a737100694cacdec45def30" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ea7bafcba7b0c5a50a737100694cacdec45def30&#34;&gt;ea7bafcba7b0c5a50a737100694cacdec45def30&lt;/a&gt;&#xA;Add :UPDATE class-option to DEFINE-JSON-TYPE</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-08-24T15:35:00-05:00</updated>
+    <id>309: https://hak.xwx.moe/jadedctrl/activity-servist/commit/ba1d62ceb2145d780a2211e6989a728f144c544a</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ba1d62ceb2145d780a2211e6989a728f144c544a&#34;&gt;ba1d62ceb2145d780a2211e6989a728f144c544a&lt;/a&gt;&#xA;Update system definitions and package nicknames</content>
+    <link href="https://hak.xwx.moe/jadedctrl/activity-servist/commit/ba1d62ceb2145d780a2211e6989a728f144c544a" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/ba1d62ceb2145d780a2211e6989a728f144c544a&#34;&gt;ba1d62ceb2145d780a2211e6989a728f144c544a&lt;/a&gt;&#xA;Update system definitions and package nicknames</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-08-24T15:19:05-05:00</updated>
+    <id>308: /jadedctrl/activity-servist/compare/2132a00a6a411146c382436b62bd516c0f082ee1...6fa9b9e03a20cd2d046302f2431fe8b07fc4ec20</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/6fa9b9e03a20cd2d046302f2431fe8b07fc4ec20&#34;&gt;6fa9b9e03a20cd2d046302f2431fe8b07fc4ec20&lt;/a&gt;&#xA;Tweaks ActivityVocabulary types/inheritance&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/f2522f9ae58c1c163022a1fdc8b39a55dcc899a4&#34;&gt;f2522f9ae58c1c163022a1fdc8b39a55dcc899a4&lt;/a&gt;&#xA;Adds *DEFAULT-JSON-TYPE* to JSON-LD&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/4964c679eec5525f9407dd605a28dc1fd9501f2b&#34;&gt;4964c679eec5525f9407dd605a28dc1fd9501f2b&lt;/a&gt;&#xA;Normalize/flatten @contexts before encoding&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/e1c1be096a17217dcd4272a14f1271f091ca117f&#34;&gt;e1c1be096a17217dcd4272a14f1271f091ca117f&lt;/a&gt;&#xA;Tweak package/test definitions&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/f7a86b86da208d8a26f4f1bc0606a841cbc670c4&#34;&gt;f7a86b86da208d8a26f4f1bc0606a841cbc670c4&lt;/a&gt;&#xA;Add type→@type &amp;amp; id→@id to Object type-definition</content>
+    <link href="/jadedctrl/activity-servist/compare/2132a00a6a411146c382436b62bd516c0f082ee1...6fa9b9e03a20cd2d046302f2431fe8b07fc4ec20" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/6fa9b9e03a20cd2d046302f2431fe8b07fc4ec20&#34;&gt;6fa9b9e03a20cd2d046302f2431fe8b07fc4ec20&lt;/a&gt;&#xA;Tweaks ActivityVocabulary types/inheritance&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/f2522f9ae58c1c163022a1fdc8b39a55dcc899a4&#34;&gt;f2522f9ae58c1c163022a1fdc8b39a55dcc899a4&lt;/a&gt;&#xA;Adds *DEFAULT-JSON-TYPE* to JSON-LD&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/4964c679eec5525f9407dd605a28dc1fd9501f2b&#34;&gt;4964c679eec5525f9407dd605a28dc1fd9501f2b&lt;/a&gt;&#xA;Normalize/flatten @contexts before encoding&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/e1c1be096a17217dcd4272a14f1271f091ca117f&#34;&gt;e1c1be096a17217dcd4272a14f1271f091ca117f&lt;/a&gt;&#xA;Tweak package/test definitions&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/f7a86b86da208d8a26f4f1bc0606a841cbc670c4&#34;&gt;f7a86b86da208d8a26f4f1bc0606a841cbc670c4&lt;/a&gt;&#xA;Add type→@type &amp;amp; id→@id to Object type-definition</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+  <entry>
+    <title>Jaidyn Ann pushed to master at jadedctrl/activity-servist</title>
+    <updated>2024-08-22T11:11:34-05:00</updated>
+    <id>307: /jadedctrl/activity-servist/compare/cc81dee054f1c60616881714676b2ddce70a2b92...2132a00a6a411146c382436b62bd516c0f082ee1</id>
+    <content type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2132a00a6a411146c382436b62bd516c0f082ee1&#34;&gt;2132a00a6a411146c382436b62bd516c0f082ee1&lt;/a&gt;&#xA;Remove reverse-context and related functions&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/b2e9e5340dd1502f7b8e8662383d903306e6ac4b&#34;&gt;b2e9e5340dd1502f7b8e8662383d903306e6ac4b&lt;/a&gt;&#xA;Add YASON:ENCODE, for encoding of nested objects</content>
+    <link href="/jadedctrl/activity-servist/compare/cc81dee054f1c60616881714676b2ddce70a2b92...2132a00a6a411146c382436b62bd516c0f082ee1" rel="alternate"></link>
+    <summary type="html">&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/2132a00a6a411146c382436b62bd516c0f082ee1&#34;&gt;2132a00a6a411146c382436b62bd516c0f082ee1&lt;/a&gt;&#xA;Remove reverse-context and related functions&#xA;&#xA;&lt;a href=&#34;https://hak.xwx.moe/jadedctrl/activity-servist/commit/b2e9e5340dd1502f7b8e8662383d903306e6ac4b&#34;&gt;b2e9e5340dd1502f7b8e8662383d903306e6ac4b&lt;/a&gt;&#xA;Add YASON:ENCODE, for encoding of nested objects</summary>
+    <author>
+      <name>Jaidyn Ann</name>
+      <email>jadedctrl@noreply.hak.xwx.moe</email>
+    </author>
+  </entry>
+</feed>

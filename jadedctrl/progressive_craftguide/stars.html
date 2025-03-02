@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="eo" data-theme="malvo">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Stargazers - jadedctrl/progressive_craftguide - Lab. Ŝinonome</title>
+	<link rel="manifest" href="data:application/json;base64,eyJuYW1lIjoiTGFib3JhdG9yaW8gxZzJqsm04bSPybThtI/htI3htIciLCJzaG9ydF9uYW1lIjoiTGFib3JhdG9yaW8gxZzJqsm04bSPybThtI/htI3htIciLCJzdGFydF91cmwiOiJodHRwczovL2hhay54d3gubW9lLyIsImljb25zIjpbeyJzcmMiOiJodHRwczovL2hhay54d3gubW9lL2Fzc2V0cy9pbWcvbG9nby5wbmciLCJ0eXBlIjoiaW1hZ2UvcG5nIiwic2l6ZXMiOiI1MTJ4NTEyIn0seyJzcmMiOiJodHRwczovL2hhay54d3gubW9lL2Fzc2V0cy9pbWcvbG9nby5zdmciLCJ0eXBlIjoiaW1hZ2Uvc3ZnK3htbCIsInNpemVzIjoiNTEyeDUxMiJ9XX0=">
+	<meta name="author" content="jadedctrl">
+	<meta name="description" content="progressive_craftguide - Simple fork of mtg_craftguide with progressive discovery of recipes.">
+	<meta name="keywords" content="git,forge,forgejo">
+	<meta name="referrer" content="no-referrer">
+
+
+	<link rel="alternate" type="application/atom+xml" title="" href="/jadedctrl/progressive_craftguide.atom">
+	<link rel="alternate" type="application/rss+xml" title="" href="/jadedctrl/progressive_craftguide.rss">
+
+	<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+	<link rel="alternate icon" href="/assets/img/favicon.png" type="image/png">
+	
+<script>
+	
+	window.addEventListener('error', function(e) {window._globalHandlerErrors=window._globalHandlerErrors||[]; window._globalHandlerErrors.push(e);});
+	window.addEventListener('unhandledrejection', function(e) {window._globalHandlerErrors=window._globalHandlerErrors||[]; window._globalHandlerErrors.push(e);});
+	window.config = {
+		appUrl: 'https:\/\/hak.xwx.moe\/',
+		appSubUrl: '',
+		assetVersionEncoded: encodeURIComponent('1.20.0~dev-2679-gb2a3cd217'), 
+		assetUrlPrefix: '\/assets',
+		runModeIsProd:  true ,
+		customEmojis: {"anja_adormiras":":anja_adormiras:","anja_fiervanta":":anja_fiervanta:","anja_konsternita":":anja_konsternita:","anja_ploretas":":anja_ploretas:","ansero":":ansero:","ansero_blekas":":ansero_blekas:","ansero_etendanta_flugilon":":ansero_etendanta_flugilon:","ansero_kodrompisto":":ansero_kodrompisto:","ansero_post_muro":":ansero_post_muro:","arĥivo":":arĥivo:","babilado":":babilado:","blindulo":":blindulo:","disigita_stelo":":disigita_stelo:","dosierujo":":dosierujo:","eŭro":":eŭro:","fiŝviro":":fiŝviro:","flago_afganujo":":flago_afganujo:","flago_afrikunio":":flago_afrikunio:","flago_alando":":flago_alando:","flago_albanujo":":flago_albanujo:","flago_aldernejo":":flago_aldernejo:","flago_aliseksemuloj":":flago_aliseksemuloj:","flago_alĝerio":":flago_alĝerio:","flago_amamoremuloj":":flago_amamoremuloj:","flago_ambaŭseksemebluloj":":flago_ambaŭseksemebluloj:","flago_ambaŭseksemuloj":":flago_ambaŭseksemuloj:","flago_anarĥiindividuismo":":flago_anarĥiindividuismo:","flago_anarĥikapitalismo":":flago_anarĥikapitalismo:","flago_anarĥipacismo":":flago_anarĥipacismo:","flago_anarĥisocialismo":":flago_anarĥisocialismo:","flago_andoro":":flago_andoro:","flago_anglujo":":flago_anglujo:","flago_angolo":":flago_angolo:","flago_angvilo":":flago_angvilo:","flago_antigvo_kaj_barbudo":":flago_antigvo_kaj_barbudo:","flago_aomeno":":flago_aomeno:","flago_arcaĥo":":flago_arcaĥo:","flago_argentino":":flago_argentino:","flago_armenujo":":flago_armenujo:","flago_arubo":":flago_arubo:","flago_asirio":":flago_asirio:","flago_asocio_de_sudorientaziaj_nacioj":":flago_asocio_de_sudorientaziaj_nacioj:","flago_azerbajĝano":":flago_azerbajĝano:","flago_aĝarujo":":flago_aĝarujo:","flago_aŭstralio":":flago_aŭstralio:","flago_aŭstrujo":":flago_aŭstrujo:","flago_aŭtismuloj":":flago_aŭtismuloj:","flago_bahamoj":":flago_bahamoj:","flago_bangladeŝo":":flago_bangladeŝo:","flago_barato":":flago_barato:","flago_barbado":":flago_barbado:","flago_barejno":":flago_barejno:","flago_bavarujo":":flago_bavarujo:","flago_bavarujo_b":":flago_bavarujo_b:","flago_belgujo":":flago_belgujo:","flago_belizo":":flago_belizo:","flago_belorusujo":":flago_belorusujo:","flago_benino":":flago_benino:","flago_bermudoj":":flago_bermudoj:","flago_birmo":":flago_birmo:","flago_blanka":":flago_blanka:","flago_blua":":flago_blua:","flago_bolivio":":flago_bolivio:","flago_bolivio_b":":flago_bolivio_b:","flago_bosnujo_kaj_hercegovino":":flago_bosnujo_kaj_hercegovino:","flago_brazilo":":flago_brazilo:","flago_brita_hindoceana_teritorio":":flago_brita_hindoceana_teritorio:","flago_britaj_virgulininsuloj":":flago_britaj_virgulininsuloj:","flago_britujo":":flago_britujo:","flago_bruna":":flago_bruna:","flago_brunejo":":flago_brunejo:","flago_bulgarujo":":flago_bulgarujo:","flago_burkino":":flago_burkino:","flago_burundo":":flago_burundo:","flago_butano":":flago_butano:","flago_centrafriko":":flago_centrafriko:","flago_cvanujo":":flago_cvanujo:","flago_danujo":":flago_danujo:","flago_dominika_respubliko":":flago_dominika_respubliko:","flago_dominiko":":flago_dominiko:","flago_eburbordo":":flago_eburbordo:","flago_egiptujo":":flago_egiptujo:","flago_ekvadoro":":flago_ekvadoro:","flago_ekvatora_gvineo":":flago_ekvatora_gvineo:","flago_eritreo":":flago_eritreo:","flago_esperanto":":flago_esperanto:","flago_estonujo":":flago_estonujo:","flago_etiopujo":":flago_etiopujo:","flago_eŭropunio":":flago_eŭropunio:","flago_eŭskujo":":flago_eŭskujo:","flago_falklandoj":":flago_falklandoj:","flago_ferooj":":flago_ferooj:","flago_filipinoj":":flago_filipinoj:","flago_finnujo":":flago_finnujo:","flago_fiĝio":":flago_fiĝio:","flago_flava":":flago_flava:","flago_fluseksemuloj":":flago_fluseksemuloj:","flago_fluseksuloj":":flago_fluseksuloj:","flago_franca_polinezio":":flago_franca_polinezio:","flago_francujo":":flago_francujo:","flago_gabono":":flago_gabono:","flago_gambio":":flago_gambio:","flago_ganao":":flago_ganao:","flago_germanujo":":flago_germanujo:","flago_gernezejo":":flago_gernezejo:","flago_grenado":":flago_grenado:","flago_gronlando":":flago_gronlando:","flago_guamo":":flago_guamo:","flago_gujano":":flago_gujano:","flago_gvatemalo":":flago_gvatemalo:","flago_gvineo":":flago_gvineo:","flago_gvineo-bisaŭo":":flago_gvineo-bisaŭo:","flago_haitio":":flago_haitio:","flago_havajo":":flago_havajo:","flago_havajo_renverse":":flago_havajo_renverse:","flago_hispanujo":":flago_hispanujo:","flago_honduro":":flago_honduro:","flago_honkongo":":flago_honkongo:","flago_hungarujo":":flago_hungarujo:","flago_ido":":flago_ido:","flago_indonezio":":flago_indonezio:","flago_inemulinoj":":flago_inemulinoj:","flago_inrilatemuloj":":flago_inrilatemuloj:","flago_interseksuloj":":flago_interseksuloj:","flago_inulipoj":":flago_inulipoj:","flago_ipemulipoj":":flago_ipemulipoj:","flago_ipulipoj":":flago_ipulipoj:","flago_irako":":flago_irako:","flago_irano":":flago_irano:","flago_irlando":":flago_irlando:","flago_islando":":flago_islando:","flago_israelo":":flago_israelo:","flago_italujo":":flago_italujo:","flago_iĉemuliĉoj":":flago_iĉemuliĉoj:","flago_iĉrilatemuloj":":flago_iĉrilatemuloj:","flago_iĉulipoj":":flago_iĉulipoj:","flago_jamajko":":flago_jamajko:","flago_japanujo":":flago_japanujo:","flago_jemeno":":flago_jemeno:","flago_jordanio":":flago_jordanio:","flago_jugoslavujo":":flago_jugoslavujo:","flago_kaboverdo":":flago_kaboverdo:","flago_kajmaninsuloj":":flago_kajmaninsuloj:","flago_kamboĝo":":flago_kamboĝo:","flago_kameruno":":flago_kameruno:","flago_kanado":":flago_kanado:","flago_kanarioj":":flago_kanarioj:","flago_karakalpakujo":":flago_karakalpakujo:","flago_kartvelujo":":flago_kartvelujo:","flago_katalunujo":":flago_katalunujo:","flago_kataro_1":":flago_kataro_1:","flago_kataro_2":":flago_kataro_2:","flago_kazaĥujo":":flago_kazaĥujo:","flago_kebekio":":flago_kebekio:","flago_kenjo":":flago_kenjo:","flago_kimrujo":":flago_kimrujo:","flago_kipro":":flago_kipro:","flago_kirgizujo":":flago_kirgizujo:","flago_kiribato":":flago_kiribato:","flago_kokosinsuloj":":flago_kokosinsuloj:","flago_kolombio":":flago_kolombio:","flago_komoroj":":flago_komoroj:","flago_kongo_brazavila":":flago_kongo_brazavila:","flago_kongo_kinŝasa":":flago_kongo_kinŝasa:","flago_kosovo":":flago_kosovo:","flago_kostariko":":flago_kostariko:","flago_kotavo":":flago_kotavo:","flago_krimeo":":flago_krimeo:","flago_kristnaskinsulo":":flago_kristnaskinsulo:","flago_kroatujo":":flago_kroatujo:","flago_kromolimpiaj_ludoj":":flago_kromolimpiaj_ludoj:","flago_kubo":":flago_kubo:","flago_kukinsuloj":":flago_kukinsuloj:","flago_kurasao":":flago_kurasao:","flago_kurdujo":":flago_kurdujo:","flago_kuvajto":":flago_kuvajto:","flago_laoso":":flago_laoso:","flago_latvujo":":flago_latvujo:","flago_lesoto":":flago_lesoto:","flago_libano":":flago_libano:","flago_libera_kaŝmiro":":flago_libera_kaŝmiro:","flago_liberio":":flago_liberio:","flago_libio":":flago_libio:","flago_ligo_de_arabaj_ŝtatoj":":flago_ligo_de_arabaj_ŝtatoj:","flago_litovujo":":flago_litovujo:","flago_liĥtenŝtejno":":flago_liĥtenŝtejno:","flago_loĵbano":":flago_loĵbano:","flago_luksemburgo":":flago_luksemburgo:","flago_madagaskaro":":flago_madagaskaro:","flago_makedonujo":":flago_makedonujo:","flago_malajzio":":flago_malajzio:","flago_malarkto":":flago_malarkto:","flago_malavio":":flago_malavio:","flago_maldivoj":":flago_maldivoj:","flago_malio":":flago_malio:","flago_malkapabluloj":":flago_malkapabluloj:","flago_malta_ordeno":":flago_malta_ordeno:","flago_malto":":flago_malto:","flago_manksinsulo":":flago_manksinsulo:","flago_mara_avizo":":flago_mara_avizo:","flago_mara_cifero_0":":flago_mara_cifero_0:","flago_mara_cifero_1":":flago_mara_cifero_1:","flago_mara_cifero_2":":flago_mara_cifero_2:","flago_mara_cifero_3":":flago_mara_cifero_3:","flago_mara_cifero_4":":flago_mara_cifero_4:","flago_mara_cifero_5":":flago_mara_cifero_5:","flago_mara_cifero_6":":flago_mara_cifero_6:","flago_mara_cifero_7":":flago_mara_cifero_7:","flago_mara_cifero_8":":flago_mara_cifero_8:","flago_mara_cifero_9":":flago_mara_cifero_9:","flago_mara_litero_a":":flago_mara_litero_a:","flago_mara_litero_b":":flago_mara_litero_b:","flago_mara_litero_c":":flago_mara_litero_c:","flago_mara_litero_d":":flago_mara_litero_d:","flago_mara_litero_e":":flago_mara_litero_e:","flago_mara_litero_f":":flago_mara_litero_f:","flago_mara_litero_g":":flago_mara_litero_g:","flago_mara_litero_h":":flago_mara_litero_h:","flago_mara_litero_i":":flago_mara_litero_i:","flago_mara_litero_j":":flago_mara_litero_j:","flago_mara_litero_k":":flago_mara_litero_k:","flago_mara_litero_l":":flago_mara_litero_l:","flago_mara_litero_m":":flago_mara_litero_m:","flago_mara_litero_n":":flago_mara_litero_n:","flago_mara_litero_o":":flago_mara_litero_o:","flago_mara_litero_p":":flago_mara_litero_p:","flago_mara_litero_q":":flago_mara_litero_q:","flago_mara_litero_r":":flago_mara_litero_r:","flago_mara_litero_s":":flago_mara_litero_s:","flago_mara_litero_t":":flago_mara_litero_t:","flago_mara_litero_u":":flago_mara_litero_u:","flago_mara_litero_v":":flago_mara_litero_v:","flago_mara_litero_w":":flago_mara_litero_w:","flago_mara_litero_x":":flago_mara_litero_x:","flago_mara_litero_y":":flago_mara_litero_y:","flago_mara_litero_z":":flago_mara_litero_z:","flago_mara_ripetu_1an":":flago_mara_ripetu_1an:","flago_mara_ripetu_2an":":flago_mara_ripetu_2an:","flago_mara_ripetu_3an":":flago_mara_ripetu_3an:","flago_mara_ripetu_4an":":flago_mara_ripetu_4an:","flago_maroko":":flago_maroko:","flago_marrabistoj":":flago_marrabistoj:","flago_marrabistoj_b":":flago_marrabistoj_b:","flago_martiniko":":flago_martiniko:","flago_marŝaloj":":flago_marŝaloj:","flago_maŭricio":":flago_maŭricio:","flago_maŭritanio":":flago_maŭritanio:","flago_meksiko":":flago_meksiko:","flago_mikronezio":":flago_mikronezio:","flago_moldavujo":":flago_moldavujo:","flago_monako":":flago_monako:","flago_moncerato":":flago_moncerato:","flago_monda_organizaĵo_pri_sano":":flago_monda_organizaĵo_pri_sano:","flago_mongolujo":":flago_mongolujo:","flago_montenegro":":flago_montenegro:","flago_monto_atos":":flago_monto_atos:","flago_mozambiko":":flago_mozambiko:","flago_namibio":":flago_namibio:","flago_nauro":":flago_nauro:","flago_neamuloj":":flago_neamuloj:","flago_necertuloj":":flago_necertuloj:","flago_nederlando":":flago_nederlando:","flago_neduumuloj":":flago_neduumuloj:","flago_nepalo":":flago_nepalo:","flago_neseksemaj_neamuloj":":flago_neseksemaj_neamuloj:","flago_neseksemuloj":":flago_neseksemuloj:","flago_neŭtrala_moresneto":":flago_neŭtrala_moresneto:","flago_nigra":":flago_nigra:","flago_nikaragvo":":flago_nikaragvo:","flago_niuo":":flago_niuo:","flago_niĝerio":":flago_niĝerio:","flago_niĝero":":flago_niĝero:","flago_norda_kipro":":flago_norda_kipro:","flago_nordaj_marianoj":":flago_nordaj_marianoj:","flago_nordkoreujo":":flago_nordkoreujo:","flago_norfolkinsulo":":flago_norfolkinsulo:","flago_norvegujo":":flago_norvegujo:","flago_novkaledonio":":flago_novkaledonio:","flago_novzelando":":flago_novzelando:","flago_okcidenta_saharo":":flago_okcidenta_saharo:","flago_olimpiaj_ludoj":":flago_olimpiaj_ludoj:","flago_omano":":flago_omano:","flago_oranĝkolora":":flago_oranĝkolora:","flago_organizaĵo_de_nordatlantika_traktato":":flago_organizaĵo_de_nordatlantika_traktato:","flago_orienta_timoro":":flago_orienta_timoro:","flago_paco_kolombo":":flago_paco_kolombo:","flago_paco_teksto":":flago_paco_teksto:","flago_pakistano":":flago_pakistano:","flago_palaŭo":":flago_palaŭo:","flago_palestino":":flago_palestino:","flago_panamo":":flago_panamo:","flago_papuonovgvineo":":flago_papuonovgvineo:","flago_paragvajo":":flago_paragvajo:","flago_peruo":":flago_peruo:","flago_pitkernaj_insuloj":":flago_pitkernaj_insuloj:","flago_pluramuloj":":flago_pluramuloj:","flago_pluramuloj_π":":flago_pluramuloj_π:","flago_polujo":":flago_polujo:","flago_portoriko":":flago_portoriko:","flago_portugalujo":":flago_portugalujo:","flago_purpura":":flago_purpura:","flago_rozkolora":":flago_rozkolora:","flago_roĵavo":":flago_roĵavo:","flago_ruando":":flago_ruando:","flago_rumanujo":":flago_rumanujo:","flago_rusujo":":flago_rusujo:","flago_ruĝa":":flago_ruĝa:","flago_salomonoj":":flago_salomonoj:","flago_salvadoro":":flago_salvadoro:","flago_samoo":":flago_samoo:","flago_sankta_bartolomeo":":flago_sankta_bartolomeo:","flago_sankta_heleno":":flago_sankta_heleno:","flago_sankta_imperio_pingvena":":flago_sankta_imperio_pingvena:","flago_sankta_imperio_roma":":flago_sankta_imperio_roma:","flago_sankta_kristoforo_kaj_neviso":":flago_sankta_kristoforo_kaj_neviso:","flago_sankta_lucio":":flago_sankta_lucio:","flago_sankta_marteno_franca":":flago_sankta_marteno_franca:","flago_sankta_marteno_nederlanda":":flago_sankta_marteno_nederlanda:","flago_sankta_petro_kaj_mikelono":":flago_sankta_petro_kaj_mikelono:","flago_sankta_vincento_kaj_grenadinoj":":flago_sankta_vincento_kaj_grenadinoj:","flago_sanmarino":":flago_sanmarino:","flago_santomeo_kaj_principeo":":flago_santomeo_kaj_principeo:","flago_sarko":":flago_sarko:","flago_sauda_arabujo":":flago_sauda_arabujo:","flago_sejŝeloj":":flago_sejŝeloj:","flago_seksnebululoj":":flago_seksnebululoj:","flago_seksnezorguloj":":flago_seksnezorguloj:","flago_senegalo":":flago_senegalo:","flago_serbujo":":flago_serbujo:","flago_sieraleono":":flago_sieraleono:","flago_singapuro":":flago_singapuro:","flago_sirio":":flago_sirio:","flago_skotujo":":flago_skotujo:","flago_slovakujo":":flago_slovakujo:","flago_slovenujo":":flago_slovenujo:","flago_somalilando":":flago_somalilando:","flago_somalujo":":flago_somalujo:","flago_srilanko":":flago_srilanko:","flago_sudafriko":":flago_sudafriko:","flago_sudano":":flago_sudano:","flago_sudgeorgio_kaj_sudsandviĉinsuloj":":flago_sudgeorgio_kaj_sudsandviĉinsuloj:","flago_sudkoreujo":":flago_sudkoreujo:","flago_sudsudano":":flago_sudsudano:","flago_sudtirolo":":flago_sudtirolo:","flago_surduloj":":flago_surduloj:","flago_surinamo":":flago_surinamo:","flago_svaziujo":":flago_svaziujo:","flago_svedujo":":flago_svedujo:","flago_svisujo":":flago_svisujo:","flago_tajujo":":flago_tajujo:","flago_tajvano":":flago_tajvano:","flago_tanzanio":":flago_tanzanio:","flago_tasuloj":":flago_tasuloj:","flago_taĝikujo":":flago_taĝikujo:","flago_tibeto":":flago_tibeto:","flago_togolando":":flago_togolando:","flago_tokipono":":flago_tokipono:","flago_tongo":":flago_tongo:","flago_transseksuloj":":flago_transseksuloj:","flago_trinidado_kaj_tobago":":flago_trinidado_kaj_tobago:","flago_tristan_da_kunja":":flago_tristan_da_kunja:","flago_tunizio":":flago_tunizio:","flago_turkirako":":flago_turkirako:","flago_turkmenujo":":flago_turkmenujo:","flago_turkoj_kaj_kajkoj":":flago_turkoj_kaj_kajkoj:","flago_turkujo":":flago_turkujo:","flago_tuvalo":":flago_tuvalo:","flago_ugando":":flago_ugando:","flago_ujgurujo":":flago_ujgurujo:","flago_ukrainujo":":flago_ukrainujo:","flago_umemulipoj":":flago_umemulipoj:","flago_unuiĝintaj_arabaj_emirlandoj":":flago_unuiĝintaj_arabaj_emirlandoj:","flago_unuiĝintaj_nacioj":":flago_unuiĝintaj_nacioj:","flago_urugvajo":":flago_urugvajo:","flago_usona_samoo":":flago_usona_samoo:","flago_usonaj_virgulininsuloj":":flago_usonaj_virgulininsuloj:","flago_usono":":flago_usono:","flago_uzbekujo":":flago_uzbekujo:","flago_valiso_kaj_futuno":":flago_valiso_kaj_futuno:","flago_vanuatuo":":flago_vanuatuo:","flago_vatikano":":flago_vatikano:","flago_venezuelo":":flago_venezuelo:","flago_verda":":flago_verda:","flago_vetkurado":":flago_vetkurado:","flago_violkolora":":flago_violkolora:","flago_vjetnamujo":":flago_vjetnamujo:","flago_zambio":":flago_zambio:","flago_zimbabvo":":flago_zimbabvo:","flago_ĉado":":flago_ĉado:","flago_ĉeĥujo":":flago_ĉeĥujo:","flago_ĉielira_insulo":":flago_ĉielira_insulo:","flago_ĉinujo":":flago_ĉinujo:","flago_ĉiuseksemuloj":":flago_ĉiuseksemuloj:","flago_ĝibraltaro":":flago_ĝibraltaro:","flago_ĝibutio":":flago_ĝibutio:","flago_ĵerzejo":":flago_ĵerzejo:","gutkateto":":gutkateto:","gutkato":":gutkato:","gutkato_3c":":gutkato_3c:","gutkato_adoras":":gutkato_adoras:","gutkato_adorinda":":gutkato_adorinda:","gutkato_akvo":":gutkato_akvo:","gutkato_amuzetiĝas":":gutkato_amuzetiĝas:","gutkato_animeulo":":gutkato_animeulo:","gutkato_anĝelo":":gutkato_anĝelo:","gutkato_bildolibro":":gutkato_bildolibro:","gutkato_blua":":gutkato_blua:","gutkato_brilokuloj":":gutkato_brilokuloj:","gutkato_brulas":":gutkato_brulas:","gutkato_cumiki":":gutkato_cumiki:","gutkato_datreveno":":gutkato_datreveno:","gutkato_degelas":":gutkato_degelas:","gutkato_diablo":":gutkato_diablo:","gutkato_dikfingro_suben":":gutkato_dikfingro_suben:","gutkato_dikfingro_supren":":gutkato_dikfingro_supren:","gutkato_dismalaperas":":gutkato_dismalaperas:","gutkato_disokula":":gutkato_disokula:","gutkato_dolaroj":":gutkato_dolaroj:","gutkato_donaco_rozkolora":":gutkato_donaco_rozkolora:","gutkato_donaco_ruĝa":":gutkato_donaco_ruĝa:","gutkato_donaco_verda":":gutkato_donaco_verda:","gutkato_dorlotiĝas":":gutkato_dorlotiĝas:","gutkato_dorlotiĝas_malgaje":":gutkato_dorlotiĝas_malgaje:","gutkato_dormas":":gutkato_dormas:","gutkato_en_skatolo":":gutkato_en_skatolo:","gutkato_etendas_piedojn":":gutkato_etendas_piedojn:","gutkato_fajfas_senkulpece":":gutkato_fajfas_senkulpece:","gutkato_fajrokuloj":":gutkato_fajrokuloj:","gutkato_fantomiĝas":":gutkato_fantomiĝas:","gutkato_fiera":":gutkato_fiera:","gutkato_fiervanta":":gutkato_fiervanta:","gutkato_fingropafas":":gutkato_fingropafas:","gutkato_flucerba":":gutkato_flucerba:","gutkato_fotilo":":gutkato_fotilo:","gutkato_frago":":gutkato_frago:","gutkato_fritkuko":":gutkato_fritkuko:","gutkato_guuu":":gutkato_guuu:","gutkato_haibane":":gutkato_haibane:","gutkato_heroo":":gutkato_heroo:","gutkato_heroo_bastonpana":":gutkato_heroo_bastonpana:","gutkato_hihias":":gutkato_hihias:","gutkato_hura":":gutkato_hura:","gutkato_ideo":":gutkato_ideo:","gutkato_kafo":":gutkato_kafo:","gutkato_kapaŭskultiloj":":gutkato_kapaŭskultiloj:","gutkato_kapturniĝas":":gutkato_kapturniĝas:","gutkato_kato":":gutkato_kato:","gutkato_kato_gutkato":":gutkato_kato_gutkato:","gutkato_kjooo":":gutkato_kjooo:","gutkato_koleriĝas":":gutkato_koleriĝas:","gutkato_konsnciiĝas_ion_konsternan":":gutkato_konsnciiĝas_ion_konsternan:","gutkato_konsternetita":":gutkato_konsternetita:","gutkato_konsternita":":gutkato_konsternita:","gutkato_kontenta":":gutkato_kontenta:","gutkato_koro":":gutkato_koro:","gutkato_korŝiro":":gutkato_korŝiro:","gutkato_kosmo":":gutkato_kosmo:","gutkato_kosmovojaĝisto":":gutkato_kosmovojaĝisto:","gutkato_krevmaizo":":gutkato_krevmaizo:","gutkato_krono":":gutkato_krono:","gutkato_kuketo":":gutkato_kuketo:","gutkato_lain":":gutkato_lain:","gutkato_lipharoj":":gutkato_lipharoj:","gutkato_malesperas":":gutkato_malesperas:","gutkato_malesperetas":":gutkato_malesperetas:","gutkato_malgaja":":gutkato_malgaja:","gutkato_malica":":gutkato_malica:","gutkato_malprofito":":gutkato_malprofito:","gutkato_malridetas":":gutkato_malridetas:","gutkato_malĝojeta":":gutkato_malĝojeta:","gutkato_manĝas_akvomelonon":":gutkato_manĝas_akvomelonon:","gutkato_manĝas_avokadon":":gutkato_manĝas_avokadon:","gutkato_manĝas_disketon":":gutkato_manĝas_disketon:","gutkato_manĝas_dolĉbastonon":":gutkato_manĝas_dolĉbastonon:","gutkato_manĝas_fiŝon":":gutkato_manĝas_fiŝon:","gutkato_manĝas_fragon":":gutkato_manĝas_fragon:","gutkato_manĝas_gutkaton":":gutkato_manĝas_gutkaton:","gutkato_manĝas_hamburgeron":":gutkato_manĝas_hamburgeron:","gutkato_manĝas_kareon":":gutkato_manĝas_kareon:","gutkato_manĝas_kuketon":":gutkato_manĝas_kuketon:","gutkato_manĝas_persikon":":gutkato_manĝas_persikon:","gutkato_manĝas_picon":":gutkato_manĝas_picon:","gutkato_manĝas_sandviĉon":":gutkato_manĝas_sandviĉon:","gutkato_manĝas_solanon":":gutkato_manĝas_solanon:","gutkato_manĝas_tomaton":":gutkato_manĝas_tomaton:","gutkato_manĝilaro":":gutkato_manĝilaro:","gutkato_marrabisto":":gutkato_marrabisto:","gutkato_megumin":":gutkato_megumin:","gutkato_mojosa":":gutkato_mojosa:","gutkato_naŭza":":gutkato_naŭza:","gutkato_nervuma":":gutkato_nervuma:","gutkato_neŭtrala":":gutkato_neŭtrala:","gutkato_ninĝo":":gutkato_ninĝo:","gutkato_oranĝkolora":":gutkato_oranĝkolora:","gutkato_pafonta":":gutkato_pafonta:","gutkato_palpebrosigno":":gutkato_palpebrosigno:","gutkato_palpebrosigno_lango":":gutkato_palpebrosigno_lango:","gutkato_paro":":gutkato_paro:","gutkato_pensas":":gutkato_pensas:","gutkato_pensegas":":gutkato_pensegas:","gutkato_pentristo":":gutkato_pentristo:","gutkato_petrigardas":":gutkato_petrigardas:","gutkato_piano":":gutkato_piano:","gutkato_pingveno":":gutkato_pingveno:","gutkato_ploras":":gutkato_ploras:","gutkato_policano":":gutkato_policano:","gutkato_post_muro":":gutkato_post_muro:","gutkato_post_pano":":gutkato_post_pano:","gutkato_poto":":gutkato_poto:","gutkato_profito":":gutkato_profito:","gutkato_renversa":":gutkato_renversa:","gutkato_renversas_tablon":":gutkato_renversas_tablon:","gutkato_ridas":":gutkato_ridas:","gutkato_roboto":":gutkato_roboto:","gutkato_ruĝa":":gutkato_ruĝa:","gutkato_ruĝiĝas":":gutkato_ruĝiĝas:","gutkato_sagaca":":gutkato_sagaca:","gutkato_salutas":":gutkato_salutas:","gutkato_salutas_soldate":":gutkato_salutas_soldate:","gutkato_sciencisto":":gutkato_sciencisto:","gutkato_sen_buŝo":":gutkato_sen_buŝo:","gutkato_sendorma":":gutkato_sendorma:","gutkato_signo_dank":":gutkato_signo_dank:","gutkato_signo_jes":":gutkato_signo_jes:","gutkato_signo_miaŭ":":gutkato_signo_miaŭ:","gutkato_signo_ne":":gutkato_signo_ne:","gutkato_sorĉistino":":gutkato_sorĉistino:","gutkato_spesmiloj":":gutkato_spesmiloj:","gutkato_suĉumo":":gutkato_suĉumo:","gutkato_tamburo":":gutkato_tamburo:","gutkato_teo":":gutkato_teo:","gutkato_ternas":":gutkato_ternas:","gutkato_timsurprizita":":gutkato_timsurprizita:","gutkato_tranĉilo":":gutkato_tranĉilo:","gutkato_venkinta":":gutkato_venkinta:","gutkato_verda":":gutkato_verda:","gutkato_violkolora":":gutkato_violkolora:","gutkato_zipita":":gutkato_zipita:","gutkato_ĉarmas":":gutkato_ĉarmas:","gutkato_ĉirkaŭpreno":":gutkato_ĉirkaŭpreno:","gutkato_ĝavo":":gutkato_ĝavo:","gutkato_ĝengrimacas":":gutkato_ĝengrimacas:","gutkato_ĝentilviro":":gutkato_ĝentilviro:","gutkato_ŝokmuso":":gutkato_ŝokmuso:","gutkato_ŝtelisto":":gutkato_ŝtelisto:","gutkato_ŝvittima":":gutkato_ŝvittima:","gutkatoj_altkvinas":":gutkatoj_altkvinas:","gutvulpo":":gutvulpo:","hejmo":":hejmo:","hundo":":hundo:","inami_adoras":":inami_adoras:","inami_atakas":":inami_atakas:","inami_embarasiĝas":":inami_embarasiĝas:","iĥtis":":iĥtis:","jamada_adormiras":":jamada_adormiras:","jamada_dormema":":jamada_dormema:","jamada_fajfas_senkulpece":":jamada_fajfas_senkulpece:","jamada_gesto_stulteta":":jamada_gesto_stulteta:","jamada_k_taneŝima_post_muro":":jamada_k_taneŝima_post_muro:","kapsiko":":kapsiko:","katanaŝi_adoras":":katanaŝi_adoras:","katanaŝi_frapiĝas":":katanaŝi_frapiĝas:","katanaŝi_neas":":katanaŝi_neas:","katanaŝi_vespiras":":katanaŝi_vespiras:","korektu_min":":korektu_min:","krevmaizo":":krevmaizo:","kristala_luno_blua":":kristala_luno_blua:","kristala_luno_rozkolora":":kristala_luno_rozkolora:","persono":":persono:","porko_monuja":":porko_monuja:","prognozo":":prognozo:","programo":":programo:","purpura_luno":":purpura_luno:","purpura_stelo":":purpura_stelo:","rozkolora_luno":":rozkolora_luno:","sandviĉo":":sandviĉo:","sato_kuiras_pate":":sato_kuiras_pate:","sato_minacas_pate":":sato_minacas_pate:","sato_sufokas_soman":":sato_sufokas_soman:","soma_malesperetas":":soma_malesperetas:","spesmilo":":spesmilo:","stelo_flava":":stelo_flava:","sándwhich":":sándwhich:","taneŝima_forpelas":":taneŝima_forpelas:","taneŝima_gesto_bone":":taneŝima_gesto_bone:","taneŝima_incitita":":taneŝima_incitita:","taneŝima_malsanas":":taneŝima_malsanas:","taneŝima_monstrega":":taneŝima_monstrega:","taneŝima_ploras_lageton":":taneŝima_ploras_lageton:","taneŝima_venkosigno":":taneŝima_venkosigno:","taneŝima_ĝojas":":taneŝima_ĝojas:","teksto":":teksto:","terminalo":":terminalo:","todoroki_adoras":":todoroki_adoras:","todoroki_amema":":todoroki_amema:","todoroki_scivolas":":todoroki_scivolas:","ŝirafuĵi_manĝas_glaciaĵon":":ŝirafuĵi_manĝas_glaciaĵon:","ŝirafuĵi_neŭtrala":":ŝirafuĵi_neŭtrala:"},
+		csrfToken: 'oZ2zJd83c-W4ZN4jdmDrJI6SWag6MTc0MDk0Nzc3Mjg0NDE1NDU1Ng',
+		pageData: {},
+		notificationSettings: {"EventSourceUpdateTime":10000,"MaxTimeout":60000,"MinTimeout":10000,"TimeoutStep":10000}, 
+		enableTimeTracking:  true ,
+		
+		mermaidMaxSourceCharacters:  5000 ,
+		
+		i18n: {
+			copy_success: "Kopiita!",
+			copy_error: "Malsukcesis kopii",
+			error_occurred: "Eraris iel",
+			network_error: "Reteraro",
+			remove_label_str: "Forigi «%s»",
+			modal_confirm: "Konfirmi",
+			modal_cancel: "Nuligi",
+		},
+	};
+	
+	window.config.pageData = window.config.pageData || {};
+</script>
+<script src="/assets/js/webcomponents.js?v=1.20.0~dev-2679-gb2a3cd217"></script>
+
+	<noscript>
+		<style>
+			.dropdown:hover > .menu { display: block; }
+			.ui.secondary.menu .dropdown.item > .menu { margin-top: 0; }
+		</style>
+	</noscript>
+	
+	
+		<meta property="og:title" content="progressive_craftguide">
+		<meta property="og:url" content="https://hak.xwx.moe/jadedctrl/progressive_craftguide">
+		
+			<meta property="og:description" content="Simple fork of mtg_craftguide with progressive discovery of recipes.">
+		
+	
+	<meta property="og:type" content="object">
+	
+		<meta property="og:image" content="https://hak.xwx.moe/avatars/9b9d83fce6b8a652d75ea4da5f7205414f1c5d25a00d1ccbb9a424f8c804b76f">
+	
+
+<meta property="og:site_name" content="Laboratorio Ŝɪɴᴏɴᴏᴍᴇ">
+
+	<link rel="stylesheet" href="/assets/css/index.css?v=1.20.0~dev-2679-gb2a3cd217">
+<link rel="stylesheet" href="/assets/css/theme-malvo.css?v=1.20.0~dev-2679-gb2a3cd217">
+
+	
+	<link rel="stylesheet" href="/assets/css/shinonome.css">
+</head>
+<body>
+	
+	
+
+	<div class="full height">
+		<noscript>Ĉi tiu retejo bezonas JavaScript’on.</noscript>
+
+		
+
+		
+			
+
+
+<nav id="navbar" aria-label="Esplora breto">
+	<div class="navbar-left ui secondary menu">
+		
+		<a class="item" id="navbar-logo" href="/" aria-label="Hejmo">
+			<img width="30" height="30" src="/assets/img/logo.png" alt="Emblemo" aria-hidden="true">
+		</a>
+
+		
+		<div class="ui secondary menu item navbar-mobile-right">
+			
+			<button class="item gt-w-auto ui icon mini button gt-p-3 gt-m-0" id="navbar-expand-toggle"><svg viewBox="0 0 16 16" class="svg octicon-three-bars" aria-hidden="true" width="16" height="16"><path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75m0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75M1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5"/></svg></button>
+		</div>
+
+		
+		
+			<a class="item" href="/explore/repos">Esplori</a>
+		
+
+		
+
+		
+			<a class="item" target="_blank" rel="noopener noreferrer" href="https://forgejo.org/docs/latest/">Helpo</a>
+		
+	</div>
+
+	
+	<div class="navbar-right ui secondary menu">
+		
+			<div class="ui dropdown downward language">
+				<span class="flex-text-inline"><svg viewBox="0 0 16 16" class="svg octicon-globe" aria-hidden="true" width="14" height="14"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0M5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948m-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5m10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"/></svg> Esperanto</span>
+				<div class="menu language-menu">
+					
+					<a lang="id-ID" data-url="/?lang=id-ID" class="item ">Bahasa Indonesia</a>
+					
+					<a lang="de-DE" data-url="/?lang=de-DE" class="item ">Deutsch</a>
+					
+					<a lang="en-US" data-url="/?lang=en-US" class="item ">English</a>
+					
+					<a lang="es-ES" data-url="/?lang=es-ES" class="item ">Español</a>
+					
+					<a lang="eo" data-url="/?lang=eo" class="item active selected">Esperanto</a>
+					
+					<a lang="fr-FR" data-url="/?lang=fr-FR" class="item ">Français</a>
+					
+					<a lang="it-IT" data-url="/?lang=it-IT" class="item ">Italiano</a>
+					
+					<a lang="lv-LV" data-url="/?lang=lv-LV" class="item ">Latviešu</a>
+					
+					<a lang="hu-HU" data-url="/?lang=hu-HU" class="item ">Magyar nyelv</a>
+					
+					<a lang="nl-NL" data-url="/?lang=nl-NL" class="item ">Nederlands</a>
+					
+					<a lang="pl-PL" data-url="/?lang=pl-PL" class="item ">Polski</a>
+					
+					<a lang="pt-PT" data-url="/?lang=pt-PT" class="item ">Português de Portugal</a>
+					
+					<a lang="pt-BR" data-url="/?lang=pt-BR" class="item ">Português do Brasil</a>
+					
+					<a lang="fi-FI" data-url="/?lang=fi-FI" class="item ">Suomi</a>
+					
+					<a lang="sv-SE" data-url="/?lang=sv-SE" class="item ">Svenska</a>
+					
+					<a lang="tr-TR" data-url="/?lang=tr-TR" class="item ">Türkçe</a>
+					
+					<a lang="cs-CZ" data-url="/?lang=cs-CZ" class="item ">Čeština</a>
+					
+					<a lang="el-GR" data-url="/?lang=el-GR" class="item ">Ελληνικά</a>
+					
+					<a lang="bg-BG" data-url="/?lang=bg-BG" class="item ">Български</a>
+					
+					<a lang="ru-RU" data-url="/?lang=ru-RU" class="item ">Русский</a>
+					
+					<a lang="uk-UA" data-url="/?lang=uk-UA" class="item ">Українська</a>
+					
+					<a lang="fa-IR" data-url="/?lang=fa-IR" class="item ">فارسی</a>
+					
+					<a lang="ml-IN" data-url="/?lang=ml-IN" class="item ">മലയാളം</a>
+					
+					<a lang="ja-JP" data-url="/?lang=ja-JP" class="item ">日本語</a>
+					
+					<a lang="zh-CN" data-url="/?lang=zh-CN" class="item ">简体中文</a>
+					
+					<a lang="zh-TW" data-url="/?lang=zh-TW" class="item ">繁體中文（台灣）</a>
+					
+					<a lang="zh-HK" data-url="/?lang=zh-HK" class="item ">繁體中文（香港）</a>
+					
+					<a lang="ko-KR" data-url="/?lang=ko-KR" class="item ">한국어</a>
+					
+				</div>
+			</div>
+			
+				<a class="item" href="/user/sign_up">
+					<svg viewBox="0 0 16 16" class="svg octicon-person" aria-hidden="true" width="16" height="16"><path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0M10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0"/></svg> Registriĝi
+				</a>
+			
+			<a class="item" rel="nofollow" href="/user/login?redirect_to=%2fjadedctrl%2fprogressive_craftguide%2fstars">
+				<svg viewBox="0 0 16 16" class="svg octicon-sign-in" aria-hidden="true" width="16" height="16"><path d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 0 1 0 1.5h-2.5a.25.25 0 0 0-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 2 13.25Zm6.56 4.5h5.69a.75.75 0 0 1 0 1.5H8.56l1.97 1.97a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L6.22 8.53a.75.75 0 0 1 0-1.06l3.25-3.25a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734Z"/></svg> Saluti
+			</a>
+		
+	</div>
+</nav>
+
+		
+
+
+
+<div role="main" aria-label="Stargazers" class="page-content repository watchers">
+	<div class="header-wrapper">
+
+	<div class="ui container">
+		<div class="repo-header">
+			<div class="flex-item gt-ac">
+				<div class="flex-item-leading">
+
+	<svg viewBox="0 0 16 16" class="svg octicon-repo" aria-hidden="true" width="32" height="32"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/></svg>
+
+</div>
+				<div class="flex-item-main">
+					<div class="flex-item-title">
+						<a class="text light thin" href="/jadedctrl">jadedctrl</a>/
+						<a class="text primary" href="/jadedctrl/progressive_craftguide">progressive_craftguide</a></div>
+				</div>
+				<div class="flex-item-trailing">
+					
+					
+						
+					
+					
+					
+				</div>
+			</div>
+			
+				<div class="repo-buttons">
+					
+					
+					
+					<a class="ui compact small basic button" href="/jadedctrl/progressive_craftguide.rss" data-tooltip-content="RSS-fluo">
+						<svg viewBox="0 0 16 16" class="svg octicon-rss" aria-hidden="true" width="16" height="16"><path d="M2.002 2.725a.75.75 0 0 1 .797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 0 1-1.497.098 10.502 10.502 0 0 0-9.776-9.776.747.747 0 0 1-.7-.798ZM2.84 7.05h-.002a7.002 7.002 0 0 1 6.113 6.111.75.75 0 0 1-1.49.178 5.503 5.503 0 0 0-4.8-4.8.75.75 0 0 1 .179-1.489M2 13a1 1 0 1 1 2 0 1 1 0 0 1-2 0"/></svg>
+					</a>
+					
+					<form method="post" action="/jadedctrl/progressive_craftguide/action/watch?redirect_to=%2fjadedctrl%2fprogressive_craftguide%2fstars">
+						<input type="hidden" name="_csrf" value="oZ2zJd83c-W4ZN4jdmDrJI6SWag6MTc0MDk0Nzc3Mjg0NDE1NDU1Ng">
+						<div class="ui labeled button" data-tooltip-content="Sign in to watch this repository.">
+							<button type="submit" class="ui compact small basic button" disabled>
+								
+									<svg viewBox="0 0 16 16" class="svg octicon-eye" aria-hidden="true" width="16" height="16"><path d="M8 2c1.981 0 3.671.992 4.933 2.078 1.27 1.091 2.187 2.345 2.637 3.023a1.62 1.62 0 0 1 0 1.798c-.45.678-1.367 1.932-2.637 3.023C11.67 13.008 9.981 14 8 14c-1.981 0-3.671-.992-4.933-2.078C1.797 10.83.88 9.576.43 8.898a1.62 1.62 0 0 1 0-1.798c.45-.677 1.367-1.931 2.637-3.022C4.33 2.992 6.019 2 8 2M1.679 7.932a.12.12 0 0 0 0 .136c.411.622 1.241 1.75 2.366 2.717C5.176 11.758 6.527 12.5 8 12.5c1.473 0 2.825-.742 3.955-1.715 1.124-.967 1.954-2.096 2.366-2.717a.12.12 0 0 0 0-.136c-.412-.621-1.242-1.75-2.366-2.717C10.824 4.242 9.473 3.5 8 3.5c-1.473 0-2.825.742-3.955 1.715-1.124.967-1.954 2.096-2.366 2.717M8 10a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 10"/></svg><span class="text">Spuri</span>
+								
+							</button>
+							<a class="ui basic label" href="/jadedctrl/progressive_craftguide/watchers">
+								1
+							</a>
+						</div>
+					</form>
+					
+						<form method="post" action="/jadedctrl/progressive_craftguide/action/star?redirect_to=%2fjadedctrl%2fprogressive_craftguide%2fstars">
+							<input type="hidden" name="_csrf" value="oZ2zJd83c-W4ZN4jdmDrJI6SWag6MTc0MDk0Nzc3Mjg0NDE1NDU1Ng">
+							<div class="ui labeled button" data-tooltip-content="Sign in to star this repository.">
+								<button type="submit" class="ui compact small basic button" disabled>
+									
+										<svg viewBox="0 0 16 16" class="svg octicon-star" aria-hidden="true" width="16" height="16"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25m0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41z"/></svg><span class="text">Stelumi</span>
+									
+								</button>
+								<a class="ui basic label" href="/jadedctrl/progressive_craftguide/stars">
+									0
+								</a>
+							</div>
+						</form>
+					
+					
+						<div class="ui labeled button
+							
+								disabled
+							"
+							
+								data-tooltip-content="Sign in to fork this repository."
+							
+						>
+							<a class="ui compact small basic button"
+								
+									
+								
+							>
+								<svg viewBox="0 0 16 16" class="svg octicon-repo-forked" aria-hidden="true" width="16" height="16"><path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0M5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0m6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5m-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0"/></svg><span class="text">Disbranĉigi</span>
+							</a>
+							<div class="ui small modal" id="fork-repo-modal">
+								<div class="header">
+									You&#39;ve already forked progressive_craftguide
+								</div>
+								<div class="content gt-text-left">
+									<div class="ui list">
+										
+									</div>
+									
+								</div>
+							</div>
+							<a class="ui basic label" href="/jadedctrl/progressive_craftguide/forks">
+								0
+							</a>
+						</div>
+					
+				</div>
+			
+		</div>
+		
+		
+		
+	</div>
+
+	<div class="ui container secondary pointing tabular top attached borderless menu new-menu navbar">
+		
+			<div class="new-menu-inner">
+				
+				<a class="item" href="/jadedctrl/progressive_craftguide">
+					<svg viewBox="0 0 16 16" class="svg octicon-code" aria-hidden="true" width="16" height="16"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215m-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"/></svg> Fontkodo
+				</a>
+				
+
+				
+					<a class="item" href="/jadedctrl/progressive_craftguide/issues">
+						<svg viewBox="0 0 16 16" class="svg octicon-issue-opened" aria-hidden="true" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0M1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0"/></svg> Issues
+						
+					</a>
+				
+
+				
+
+				
+					<a class="item" href="/jadedctrl/progressive_craftguide/pulls">
+						<svg viewBox="0 0 16 16" class="svg octicon-git-pull-request" aria-hidden="true" width="16" height="16"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25m5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354M3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5m0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5m8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0"/></svg> Tirpetoj
+						
+					</a>
+				
+
+				
+					<a class="item" href="/jadedctrl/progressive_craftguide/actions">
+						<svg viewBox="0 0 16 16" class="svg octicon-play" aria-hidden="true" width="16" height="16"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0M1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0m4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215"/></svg> Actions
+						
+					</a>
+				
+
+				
+					<a href="/jadedctrl/progressive_craftguide/packages" class="item">
+						<svg viewBox="0 0 16 16" class="svg octicon-package" aria-hidden="true" width="16" height="16"><path d="m8.878.392 5.25 3.045c.54.314.872.89.872 1.514v6.098a1.75 1.75 0 0 1-.872 1.514l-5.25 3.045a1.75 1.75 0 0 1-1.756 0l-5.25-3.045A1.75 1.75 0 0 1 1 11.049V4.951c0-.624.332-1.201.872-1.514L7.122.392a1.75 1.75 0 0 1 1.756 0M7.875 1.69l-4.63 2.685L8 7.133l4.755-2.758-4.63-2.685a.248.248 0 0 0-.25 0M2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432Zm6.25 8.271 4.625-2.683a.25.25 0 0 0 .125-.216V5.677L8.75 8.432Z"/></svg> Packages
+					</a>
+				
+
+				
+					<a href="/jadedctrl/progressive_craftguide/projects" class="item">
+						<svg viewBox="0 0 16 16" class="svg octicon-project" aria-hidden="true" width="16" height="16"><path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0M1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25M11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75m-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3"/></svg> Projects
+						
+					</a>
+				
+
+				
+				<a class="item" href="/jadedctrl/progressive_craftguide/releases">
+					<svg viewBox="0 0 16 16" class="svg octicon-tag" aria-hidden="true" width="16" height="16"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775m1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2"/></svg> Eldonoj
+					
+				</a>
+				
+
+				
+					<a class="item" href="/jadedctrl/progressive_craftguide/wiki">
+						<svg viewBox="0 0 16 16" class="svg octicon-book" aria-hidden="true" width="16" height="16"><path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574M8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25"/></svg> Wiki
+					</a>
+				
+
+				
+
+				
+					<a class="item" href="/jadedctrl/progressive_craftguide/activity">
+						<svg viewBox="0 0 16 16" class="svg octicon-pulse" aria-hidden="true" width="16" height="16"><path d="M6 2c.306 0 .582.187.696.471L10 10.731l1.304-3.26A.751.751 0 0 1 12 7h3.25a.75.75 0 0 1 0 1.5h-2.742l-1.812 4.528a.751.751 0 0 1-1.392 0L6 4.77 4.696 8.03A.75.75 0 0 1 4 8.5H.75a.75.75 0 0 1 0-1.5h2.742l1.812-4.529A.751.751 0 0 1 6 2"/></svg> Activity
+					</a>
+				
+
+				
+
+				
+
+				
+			</div>
+		
+	</div>
+	<div class="ui tabs divider"></div>
+</div>
+
+	<div class="ui container">
+		<div class="user-cards">
+	
+	<h2 class="ui dividing header">
+		Stargazers
+	</h2>
+	
+	<ul class="list">
+		
+	</ul>
+
+	
+
+	
+
+
+</div>
+
+	</div>
+</div>
+
+
+	
+
+	</div>
+
+	
+
+	<footer class="page-footer" role="group" aria-label="Piedo">
+	<div class="left-links" role="contentinfo" aria-label="Pri programaro">
+		<a target="_blank" rel="noopener noreferrer" href="https://forgejo.org">Servas vin Forgejo</a>
+		
+			Versio:
+			
+				1.20.0&#43;dev-2679-gb2a3cd217
+			
+		
+		
+			Paĝo: <strong>13ms</strong>
+			Ŝablono: <strong>2ms</strong>
+		
+	</div>
+	<div class="right-links" role="group" aria-label="Ligiloj">
+	
+		<a href="/assets/licenses.txt">Permesiloj</a>
+		<a href="/api/swagger">API</a>
+		
+	</div>
+</footer>
+
+
+	<script src="/assets/js/index.js?v=1.20.0~dev-2679-gb2a3cd217" onerror="alert('Failed to load asset files from ' + this.src + '. Please make sure the asset files can be accessed.')"></script>
+
+	
+	
+</body>
+</html>
+
